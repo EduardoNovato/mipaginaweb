@@ -1,0 +1,60 @@
+/* .banner {
+  margin-top: 18px;
+} */
+
+/* .banner a {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 28px 17px;
+  text-decoration: none;
+  letter-spacing: 1px;
+} */
+/* Etiquetas normales */
+
+.container {
+  padding-top: 15px;
+}
+.titulo {
+  text-align: center;
+  padding-top: 20px;
+  font-weight: 700;
+}
+.btn {
+  position: relative;
+  top: 10px;
+}
+.imagen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10px;
+}
+.icono {
+  display: flex;
+  justify-content: center;
+  min-height: 10px;
+}
+
+.form-label {
+  padding-top: 15px;
+}
+/* Cierre de etiquetas normales */
+
+/*ID, etiquetas links */
+#links a {
+  color: white;
+}
+#links a:hover {
+  color: gray;
+}
+/* Cierre de ID, etiquetas links */
+
+/* ID, Etiquetas Imagenes */
+.icono img {
+  width: 150px;
+}
+#logo img {
+  width: 100px;
+}
+/* Cierr de ID, etiquetas links*/
